@@ -1,0 +1,134 @@
+Tell me about yourself
+Why do you want to work here
+Why are you the perfect candidate
+Strength, weakness
+best achievement 
+walk me through your resume
+Challenges, how you solved it 
+Describe a difficult task you were faced with and how you addressed it.
+What are your dreams? (look yourself in 5 years)
+how do you work in a team
+why are you here
+education
+GPA performance? 
+8month? 12month?
+resources
+what motivates you
+Resume
+Building online website
+Project description
+what was the challeng
+1. Which skills would you say are critical for working with a team? 
+2. What is your task prioritization process? 
+3. Has there ever been a time when you chose not to act in line with your organization’s policy?
+4. What is your approach to handling project delays?
+6. How do you make sure you’re constantly improving your skills?
+Why do you want this job?
+Why should we hire you?
+What can you bring to the company?
+What are your greatest strengths?
+What do you consider to be your weaknesses?
+Tell me about a time you demonstrated leadership skills.
+What’s a time you disagreed with a decision that was made at work?
+Tell me about a time you made a mistake.
+Tell me about a time you failed.
+Can you explain why you changed career paths?
+What do you like least about your job?
+What type of work environment do you prefer?
+What’s your work style?
+What’s your management style?
+How would your boss and coworkers describe you?
+How do you deal with pressure or stressful situations?
+What do you like to do outside of work?
+Are you planning on having children?
+How do you stay organized?
+How do you prioritize your work?
+What are you passionate about?
+What motivates you?
+What are your pet peeves?
+How do you like to be managed?
+Do you consider yourself successful?
+Where do you see yourself in five years?
+How do you plan to achieve your career goals?
+What are your career aspirations?
+What’s your dream job?
+What other companies are you interviewing with?
+What makes you unique?
+What should I know that’s not on your resume?
+What would your first few months look like in this role?
+What are your salary expectations?
+What do you think we could do better or differently?
+When can you start?
+Are you willing to relocate?
+How many tennis balls can you fit into a limousine?
+If you were an animal, which one would you want to be?
+Sell me this pen.
+Is there anything else you’d like us to know?
+Do you have any questions for us?
+Describe a situation where you demonstrated a positive attitude in a challenging work or academic project.
+How do you handle stress and pressure in a fast-paced work environment?
+Can you tell me about a time when you showed initiative and took the lead on a team project?
+What motivates you to work on sustainable and innovative technologies in the renewable energy field?
+How do you prioritize and manage your time effectively when working on multiple tasks or projects?
+In your opinion, what characteristics make a successful team player, and how do you embody those traits?
+Describe a situation where you had to adapt to changes and how you approached it positively.
+How do you ensure you maintain a healthy work-life balance while working on challenging projects?
+Can you share an example of a project where you had to collaborate with cross-functional teams to achieve a common goal?
+Describe a time when you faced a setback in a project. How did you handle it, and what did you learn from the experience?
+Have you ever encountered a situation where you had to persuade others to adopt your ideas or suggestions? How did you do it?
+Tell me about a time when you identified a problem and took the initiative to propose a creative solution.
+How do you ensure clear and effective communication with team members, especially in a remote or distributed work environment?
+Describe a situation where you had to manage conflicting priorities and how you resolved them to meet project deadlines.
+Can you share an example of a situation where you had to follow strict guidelines or industry standards? How did you ensure compliance?
+Tell me about a time when you received constructive criticism. How did you handle it, and what did you learn from it?
+Technical Questions:
+Explain your experience with Python and C/C++ programming languages. Have you used them in any real-world projects?
+How familiar are you with MATLAB and Simulink? Can you provide examples of how you used these tools in your work or studies?
+Have you worked with Hardware-In-the-Loop (HIL) models before? If yes, describe your experience and the purpose of those models.
+How would you approach creating test plans and unit tests for embedded software?
+Can you describe a project where you automated test cases to increase testing efficiency? What tools did you use?
+Explain your understanding of PCB schematics and microelectronic device datasheets and how they relate to embedded systems testing.
+Describe a time when you encountered a challenging firmware issue during testing. How did you troubleshoot and resolve the issue?
+In your opinion, what are the key considerations to ensure high-quality and reliable embedded software in renewable energy products?
+Have you had experience identifying and reporting software defects? How do you prioritize and address them?
+Company and Role-Specific Questions:
+What interests you the most about Schneider Electric's vision for sustainable and intelligent homes?
+How do you see yourself contributing to Schneider Electric's goal of transitioning to clean and renewable energy sources?
+What excites you the most about joining the System Modelling and Test Automation team at Schneider Electric?
+How do you envision your role impacting the development of Schneider Electric's home energy products?
+Can you describe your long-term career aspirations and how a co-op internship at Schneider Electric aligns with your goals?
+Can you explain your proficiency level and experience with each programming language: C, C++, C#, Java, and Python?
+How have you utilized the Linux environment in your projects or academic work?
+Tell us about your experience using MATLAB and mySQL in your projects. What specific tasks did you perform with these tools?
+How do you manage version control and collaboration on your projects using GitHub?
+Professional Skills:
+What motivates you to be passionate about learning and exploring new technologies?
+Can you provide an example of a complex problem you encountered during a project and how you approached solving it?
+Describe your experience working as part of a team on your personal and academic projects.
+How do you ensure effective communication and coordination when working with teammates?
+Personal Projects:
+Tell us about the process of building your website, including the technologies and tools you used.
+How did you implement user authentication and database management on your website using Node.js Express and mySQL?
+In your Unity 3D TPS game project, how did you handle scoring, item respawn, and UI integration?
+Explain how you achieved smooth gameplay by building a camera control and using Animator controllers.
+In your CMPT 353 project, how did you gather and preprocess the tweet data from Twitter using Python?
+What were the specific tasks of the BERT and ELMo models in classifying text data, and what were the results?
+Share the key features and mechanics of your Java team project "DRACULA's CURSE."
+Volunteer Experience:
+How did you contribute to the improvement of the Computer Science Student Society during your role as Exec At Large?
+Describe your experience managing participant lists and organizing events during the Hackathon.
+In your role with the IT Squad, what were the common IT problems you encountered, and how did you resolve them?
+How did you ensure efficient communication and collaboration among IT Squad members?
+Education:
+What specific computing science topics or courses have you enjoyed the most during your BSC program at Simon Fraser University?
+How did your time at Fraser International College prepare you for the computing science program at SFU?
+Have you participated in any extracurricular activities related to computing science at SFU?
+How do you prioritize and plan your personal projects to ensure timely completion?
+How do you handle project scope changes and adapt to new requirements during development?
+Describe your approach to testing and quality assurance in your personal and academic projects.
+Where do you see yourself professionally in the next five years, and how do you plan to achieve those goals?
+How does your passion for sustainable technologies align with your career aspirations?
+What kind of role and responsibilities do you see yourself taking on as a computing science professional?
+Challenges and Learning:
+Can you share an example of a technical challenge you faced during a project and how you overcame it?
+How do you stay updated with the latest advancements in computing science and related fields?
